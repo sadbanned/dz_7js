@@ -1,0 +1,132 @@
+*{
+    margin: 0 auto;
+    padding: auto;
+
+}
+.qr img{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border: 3px solid #ffffff3d;
+    border-radius: 10px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.10), 0 10px 10px rgba(0,0,0,0.10);
+    margin-left: 900px;
+    margin-top: 170px;
+}
+.qr p{
+    font-family: sans-serif;
+    margin-left: 900px;
+}
+.qrx{
+    position: absolute;
+    margin-left: 20px;
+    padding-top: 400px;
+    font-weight: 600;
+    font-size: 16px;
+}
+.points{
+        width: 230px;
+        height: 500px;
+        font-size: 14px;
+        text-align: justify;
+        position: absolute;
+        margin-left: -0px;
+        margin-top: 440px;
+        font-weight:400;
+}
+a{
+    color: orange;
+}
+h1{
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+    font-family: sans-serif;
+    position: absolute;
+    margin-left: 240px;
+    margin-top: 100px;
+}
+.input{
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 240px;
+
+}
+.log{
+    margin-bottom: 5px;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: rgb(30, 35, 41);
+}
+.pass{
+    margin-top: 30px;
+    margin-bottom: 5px;
+        font-family: sans-serif;
+        font-size: 15px;
+        font-weight: 500;
+        color: rgb(30, 35, 41);
+}
+.login{
+    font-size: 18px;
+width: 350px;
+height: 40px;
+border: 1px solid #2b2b2b;
+background-color: white;
+border-radius: 4px;
+}
+.password{
+    font-size: 18px;
+    width: 350px;
+    height: 40px;
+    border: 1px solid #2b2b2b;
+    background-color: white;
+    border-radius: 4px;
+}
+.ex{
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 240px;
+    width: 180px;
+    font-size: 15px;
+    font-weight: 600;
+    background-color: rgb(245, 245, 245);
+    color: rgb(30, 35, 41);
+    border: 10px solid rgb(245, 245, 245) ;
+    border-radius: 5px;
+}
+.rr{
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 440px;
+    width: 180px;
+    font-size: 15px;
+    font-weight: 600;
+    background-color: white;
+    color: rgb(63, 68, 75);
+    border: 10px solid white ;
+    border-radius: 5px;
+}
+.reg .rr:hover{
+    border: 10px solid rgb(245, 245, 245) ;
+    border-radius: 5px;
+    background-color: rgb(245, 245, 245);
+}
+
+.voity{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: -355px;
+    font-size: 16px;
+font-weight: 600;
+color: rgb(30, 35, 41);;
+width: 359px;
+height: 40px;
+border: 10px solid rgb(252, 213, 53);
+background-color: rgb(252, 213, 53);
+border-radius: 4px;
+}
+.input .voity:hover{
+    border: 10px solid rgb(240, 201, 45);
+background-color: rgb(240, 201, 45);
+}
